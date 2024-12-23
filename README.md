@@ -1,6 +1,8 @@
 **Name**: DEEPAK SAHU
-**Company**: CODTECH IT SOLUTIONS  
+
+**Company**: CODTECH IT SOLUTIONS 
 **ID**: 
+
 **Domain**: EMBEDDED SYSTEMS  
 **Duration**: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024  
 **Mentor**: 
