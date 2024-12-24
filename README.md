@@ -6,7 +6,7 @@
 
 **Domain**: EMBEDDED SYSTEMS  
 **Duration**: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024  
-**Mentor**: Neela Santosh Kumar
+**Mentor**: Neela Santhosh Kumar
 
 ### **Overview of the Project**
 
