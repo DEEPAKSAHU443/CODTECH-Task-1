@@ -2,11 +2,11 @@
 
 **Company**: CODTECH IT SOLUTIONS 
 
-**ID**: 
+**ID**: CT08DS176
 
 **Domain**: EMBEDDED SYSTEMS  
 **Duration**: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024  
-**Mentor**: 
+**Mentor**: Neela Santosh Kumar
 
 ### **Overview of the Project**
 
